@@ -1,6 +1,6 @@
 # MedViewer
 MedViewer
-![image](https://github.com/user-attachments/assets/e6a0c1a4-04cd-4ae0-9ab6-14c96735ebfb)
+![image](https://github.com/user-attachments/assets/4098499d-649c-4a0b-8b8f-361e2588815d)
 
 这款基于Qt和OpenGL技术打造的专业级医学影像查看软件，旨在为医生和医学研究人员提供高效、直观的医学影像浏览体验，帮助提升临床诊断效率和准确性。
 
@@ -57,7 +57,7 @@ MedViewer适用于多种医疗场景：
 **联系我们**
 支持网站：http://www.medicalbbs.com
 关注我们，了解更多医学影像前沿资讯！
-![image](https://github.com/user-attachments/assets/4dba2526-88c2-4de3-918f-fcb73807f808)
+![image](https://github.com/user-attachments/assets/98ff2acd-f752-43b7-b457-9fb7d46e31a9)
 
 欢迎体验医技工具箱(MedTools):
 ![image](https://github.com/user-attachments/assets/976553bc-bc9c-49a1-b82a-4428b11471d3)
