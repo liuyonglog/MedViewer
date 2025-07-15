@@ -37,5 +37,6 @@
 
 4. 伤口闭合
 伤口分层闭合。
-<img width="693" height="693" alt="image" src="https://github.com/user-attachments/assets/0aa72dd5-1599-4cb1-ac60-5acc1231249f" />
+<img width="693" height="513" alt="image" src="https://github.com/user-attachments/assets/ec94530c-09a8-4258-8fbd-a1cda44e6fc4" />
+
 
